@@ -8,4 +8,5 @@ require (
 	golang.org/x/net v0.5.0
 )
 
-replace github.com/facebook/fbthrift => github.com/vesoft-inc/fbthrift v0.0.0-20230201034936-5c5dd72a96c2
+replace github.com/facebook/fbthrift => github.com/veezhang/fbthrift v0.0.0-20230203023025-87fccfe9a1bd
+//replace golang.org/x/net => ../golang-net
